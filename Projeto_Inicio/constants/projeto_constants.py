@@ -1,0 +1,7 @@
+TEXTO_CAMPO_PESQ = "Pesquisar"
+TEXTO_NENHUM_CLIENTE = "Nenhum cliente cadastrado"
+TEXTO_TITULO = "Cadastro de Clientes"
+TEXTO_BT_MAIS1 = "Cadastrar Novo"
+TEXTO_BT_MAIS2 = "Exportar Dados"
+TEXTO_BT_MAIS3 = "Sobre o App"
+TEXTO_BT_MAIS4 = "Opções"
